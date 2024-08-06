@@ -1,6 +1,6 @@
 outs:
-- md5: cd2b82776db9ffd0c6ac188c808badac.dir
-  size: 196574
-  nfiles: 350
+- md5: 70765dfe57b3aff7cc955cb94c3321c8.dir
+  size: 191017
+  nfiles: 340
   hash: md5
   path: testSample
